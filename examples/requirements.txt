@@ -1,0 +1,4 @@
+POT
+matplotlib
+jupyterlab
+seaborn
